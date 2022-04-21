@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sample Website</title>
+	<atom:link href="https://azerdevera.github.io/TestWordPress/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://azerdevera.github.io/TestWordPress</link>
+	<description>Business Website</description>
+	<lastBuildDate>Fri, 28 Jan 2022 09:02:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>https://azerdevera.github.io/TestWordPress/wp-content/uploads/2022/04/Asset-13.svg</url>
+	<title>Sample Website</title>
+	<link>https://azerdevera.github.io/TestWordPress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>https://azerdevera.github.io/TestWordPress/index.php/2022/01/28/hello-world/</link>
+					<comments>https://azerdevera.github.io/TestWordPress/index.php/2022/01/28/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[_azerodevera]]></dc:creator>
+		<pubDate>Fri, 28 Jan 2022 09:02:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://localhost/exam-adevera012822/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://azerdevera.github.io/TestWordPress/index.php/2022/01/28/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
